@@ -1,0 +1,17 @@
+html {
+  font-family: 'Inconsolata', monospace;
+  text-align: center;
+}
+.sidenav {
+  float: left;
+  clear: right;
+  height: 100%;
+  width: 500px;
+  padding-top: 300px;
+}
+p {
+  float: right;
+  padding-left: 500px;
+  width: 500px;
+  padding-bottom: 200px;
+}
