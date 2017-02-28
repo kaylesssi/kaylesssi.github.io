@@ -1,0 +1,11 @@
+html {
+  font-family: 'Inconsolata', monospace;
+}
+h1 {
+  font-size: 55px;
+}
+.main {
+  text-align: right;
+  float:right;
+  padding: 28% 10% 10% 55%;
+}
