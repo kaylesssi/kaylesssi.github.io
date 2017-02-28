@@ -11,3 +11,6 @@ h1 {
   float: left;
   clear: right;
 }
+a {
+  text-decoration: none;
+}
