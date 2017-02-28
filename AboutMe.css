@@ -1,0 +1,71 @@
+html{
+  padding-left: 50px;
+  padding-right:50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  }
+h1 {
+  color: darkgrey;
+  font-family: 'Caveat', sans-serif;
+  text-align: center;
+
+  font-size: 60px
+ }
+ /* Fix the centering */
+.ProfilePic {
+   text-align: center;
+   display: block;
+ }
+h2 {
+  color: darkgrey;
+  text-align: center;
+  font-family: 'Cherry Swash', cursive;
+  font-size: 30px
+}
+p {
+  color: darkgrey;
+  font-family: 'Comfortaa', cursive;
+  font-size: 20px;
+}
+
+h4 {
+  color: darkgrey;
+  text-align: center;
+  font-family: 'Cinzel Decorative', sans-serif;
+  font-size: 20px
+}
+ul {
+  color: darkgrey;
+  font-family: 'Cinzel Decorative', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+ol {
+  color: darkgrey;
+  font-family: 'Cinzel Decorative', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+/*h6 {
+  font-family: 'Cinzel Decorative', sans-serif;
+  font-size: 20px;
+  padding: 30px 50px 30px 50px;
+  background-color: white;
+  position: static;
+  text-align: center;
+  display: block;
+}*/
+
+.SMLinks {
+  padding: 20px 0px 20px 0px;
+  background-color: lightpink;
+  color: darkgrey;
+  font-family: 'Cinzel Decorative', sans-serif;
+  font-size: 23px;
+  text-align: center;
+}
+
+.ArrowIcon {
+  text-align: right;
+  display: block;
+}
