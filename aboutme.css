@@ -1,17 +1,44 @@
 html {
   font-family: 'Inconsolata', monospace;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 450px;
+  position:fixed;
+  padding-top: 300px;
+  padding-left: 50px;
+}
+
+.sidenav a {
+  font-size: 17px;
+  color: black;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover, .offcanvas a:focus {
+  color: lightpink;
+}
+
+h4 {
+  font-size: 20px;
   text-align: center;
 }
-.sidenav {
-  float: left;
-  clear: right;
-  height: 100%;
-  width: 500px;
-  padding-top: 300px;
-}
-p {
+
+.content {
   float: right;
-  padding-left: 500px;
-  width: 500px;
-  padding-bottom: 200px;
+  clear: left;
+  padding-left: 55%;
+  padding-right: 50px;
 }
+
+@media only screen and (max-width: 768px) {
+  img {
+    width: 100%;
+    padding-bottom: 10px;
+  }

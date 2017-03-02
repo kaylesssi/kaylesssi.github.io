@@ -1,21 +1,27 @@
 html {
   font-family: 'Inconsolata', monospace;
-  padding-top: 200px;
-  padding-left: 400px;
 }
-a {
-  text-decoration: none;
-  transition: 0.3s;
+
+h1 {
+  font-size: 55px;
+}
+
+.main {
+  position: absolute;
+  padding: 200px 50px 50px 360px;
+}
+
+.main .links a {
+  font-size: 17px;
   color: black;
+  display: block;
+  transition: 0.5s;
 }
-.sidenav a:hover, .offcanvas a:focus{
-    color: lightpink;
+
+.main a:hover, .offcanvas a:focus {
+  color: lightpink;
 }
-.sidenav a {
-    text-decoration: none;
-    font-size: 15px;
-    color: black;
-    display: block;
-    transition: 0.3s
-    height: 100%
+
+h5 {
+  text-align: center;
 }

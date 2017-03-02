@@ -1,0 +1,16 @@
+h1 {
+  font-size: 50px;
+  font-family: 'Inconsolata', monospace;
+  text-align: center;
+}
+.main {
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+}
+.col-md-1 {
+  float: left;
+  clear: right;
+}
+a {
+  text-decoration: none;
+}
