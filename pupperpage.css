@@ -9,8 +9,9 @@ h4 {
   text-align: center;
   font-size: 15px;
 }
+
 .links a {
-  font-size: 17px;
+  font-size: 13px;
   color: black;
   display: block;
   transition: 0.5s;
@@ -19,4 +20,13 @@ h4 {
 }
 .links a:hover, .offcanvas a:focus {
   color: lightblue;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  text-align: center;
+  padding: 25px 100px 50px 100px;
 }

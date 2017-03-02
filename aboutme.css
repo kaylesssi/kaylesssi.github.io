@@ -9,6 +9,7 @@ h1 {
   width: 450px;
   position:fixed;
   padding-top: 300px;
+  padding-left: 50px;
 }
 .sidenav a {
   font-size: 17px;
@@ -27,6 +28,7 @@ h4 {
   float: right;
   clear: left;
   padding-left: 55%;
+  padding-right: 50px;
 }
 
 @media only screen and (max-width: 768px) {
