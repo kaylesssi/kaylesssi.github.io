@@ -2,7 +2,7 @@ html {
   font-family: 'Inconsolata', monospace;
 }
 
-h1 {
+.heading1 {
   font-size: 55px;
 }
 
@@ -11,14 +11,14 @@ h1 {
   padding: 200px 50px 50px 360px;
 }
 
-.main .links a {
+a {
   font-size: 17px;
   color: black;
   display: block;
   transition: 0.5s;
 }
 
-.main a:hover, .offcanvas a:focus {
+a:hover, .offcanvas a:focus {
   color: lightpink;
 }
 
